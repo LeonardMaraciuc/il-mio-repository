@@ -1,2 +1,1 @@
-questo file è stato creato sul branch main.
-Ecco il primo confiltto!
+Contenuto dopo il conflitto
